@@ -11,7 +11,7 @@ data "archive_file" "scheduler_source" {
 }
 
 module "scheduler_lambda" {
-  source  = "schubergphilis/mcaf-lambda/aws"
+  source  = "schubergphilis-ep/mcaf-lambda/aws"
   version = "~> 3.0.0"
 
   region = var.region
