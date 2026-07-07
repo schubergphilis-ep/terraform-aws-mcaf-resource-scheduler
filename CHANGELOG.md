@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.2](https://github.com/schubergphilis-ep/terraform-aws-mcaf-resource-scheduler/compare/v1.0.1...v1.0.2) (2026-07-07)
+
+
+### 🐛 Fixes
+
+* migrate MCAF module sources ([#3](https://github.com/schubergphilis-ep/terraform-aws-mcaf-resource-scheduler/issues/3)) ([92fc3fd](https://github.com/schubergphilis-ep/terraform-aws-mcaf-resource-scheduler/commit/92fc3fd8cec064e07cf3219a706a1dafbc04dfbd))
+
 ## [1.0.1](https://github.com/schubergphilis-ep/terraform-aws-mcaf-resource-scheduler/compare/v1.0.0...v1.0.1) (2026-06-17)
 
 
@@ -69,4 +76,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * pre-commit check failures ([#2](https://github.com/schubergphilis/terraform-aws-mcaf-resource-scheduler/pull/2)) ([7063cb5](https://github.com/schubergphilis-ep/terraform-aws-mcaf-resource-scheduler/commit/7063cb541724136774e8e8e6b82d47cea00c2bbc))
 
 ## 0.1.0 (2024-09-11)
-
